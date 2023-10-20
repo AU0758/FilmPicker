@@ -1,0 +1,11 @@
+{
+    "murder drones": {
+        "nº of episodes": 7,
+        "rating": 5,
+        "description": "someting",
+        "trailer": "https://youtu.be/xIebUcOxkMg?si=8G2xRVZklhEPRgLx",
+        "bgColor1": "red",
+        "bgColor2": "black",
+        "btnColor": "gray"          
+    }
+}
